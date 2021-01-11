@@ -152,7 +152,7 @@ a.btn-main{
     color: #2a7b8a;
 }
 
-.about .title-border{
+.about .title-border, .project .title-border{
     content: "";
     width: 30%;
     height: 2px;
@@ -169,5 +169,12 @@ a.btn-main{
     color: #2a7b8a;
 }
 
-
+.fas{
+    color:rgb(20, 87, 109);
+}
 /* End of About us  */
+
+/* Projects */
+
+/* End of Projects */
+
